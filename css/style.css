@@ -1,0 +1,31 @@
+ body {   
+ 	background-image: url("../images/background.gif");
+  background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.card-opacity-top-left {
+	opacity: 0.5;
+}
+
+.card-opacity-botom-left {
+	opacity: 0.9;
+}
+
+.card-opacity-top-right {
+	opacity: 0.5;
+}
+
+.qr-size {
+	width: 180px;
+	height: 180px;
+}
+
+.background-footer-size {
+	height: 220px;
+}
+
+.card-opacity-right {
+	opacity: 0;
+}
+
